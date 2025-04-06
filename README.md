@@ -1,7 +1,7 @@
 # Portfolio of Katherine Grey 
 Portfolio of Data Science: Mostly for use with my Capstone course.  This porfolio will spotlight 12 projects of varying subject matter.  I have tried to pick projects that speak to me and my intersts. 
 # Projects 12 total Projects
-## Predictive Failure: [Look Here](https://github.com/LadyKate7390/Kate_G_DS_Portfolio/tree/main/Predictive_Failure)
+## [Predictive Failure:](https://github.com/LadyKate7390/Kate_G_DS_Portfolio/tree/main/Predictive_Failure)
   This project takes a data set of 3 different types of mill machines and creates a model to predict failure based on several features of the data. 
 ## Sonic Wave Velcoity Prediction
   Sonic waves both compresional and shearwave modalities are used for various applications.  In this project these waves are used in Geophysics for determing the underlying structures of the ground based out fuorier transfer technique. 
